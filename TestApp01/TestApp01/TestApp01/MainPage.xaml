@@ -1,22 +1,42 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <!-- Syntaxis Commentary the same HTML -->
+<!--  -->
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="TestApp01.MainPage">
 
-    <StackLayout >
-        <Label Text="WhatsappLinkedIn"/>
-        <Frame>
-            <StackLayout>
-                <Image Source="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/479px-WhatsApp.svg.png"/>
-                <Label Text="NthingTest"/>
+    <StackLayout 
+        BackgroundColor="Aquamarine"
+        Padding="15,15,15,15"
+        >
+        <Label
+            HorizontalOptions="Center"
+            Text="WhatsappLinkedin"
+            TextColor="Black"
+            FontSize="Large"
+            />
+        <Frame
+            BackgroundColor="Aquamarine"
+            BorderColor="Aquamarine"
+            >
+            <StackLayout
+                BackgroundColor="Aquamarine"
+                >
+                <Image Source="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/479px-WhatsApp.svg.png"
+                       />
+                <Label 
+                    Text="Form for C.V"
+                    HorizontalOptions="Center"
+                    VerticalOptions="CenterAndExpand"
+                    />
                 <Button 
-                    Text="Button001Text"
+                    Text="Go"
                     TextTransform="None"
                     />
             </StackLayout>
         </Frame>
     </StackLayout>
+
 
     <!--
     <StackLayout>

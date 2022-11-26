@@ -9,7 +9,7 @@
         <Frame>
             <StackLayout>
                 <Image Source="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/479px-WhatsApp.svg.png"/>
-                <Label Text="ChangeForTest"/>
+                <Label Text="NthingTest"/>
                 <Button 
                     Text="Button001Text"
                     TextTransform="None"

@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\TestApp01",
+    "\\TestApp01\\TestApp01",
+    "\\TestApp01\\TestApp01\\TestApp01",
+    "\\TestApp01\\TestApp01\\TestApp01.Android",
+    "\\TestApp01\\TestApp01\\TestApp01.iOS"
+  ],
+  "SelectedNode": "\\TestApp01\\TestApp01\\TestApp01\\obj",
+  "PreviewInSolutionExplorer": false
+}

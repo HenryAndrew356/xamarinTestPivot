@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "lIgmwVx5d55DQcCGr3Qs7/bvEjxCLJsIBx8HEmcJDloJaRNdC/b8HlJKwJwFsC8i9KlsLa5hFWhbfTazikgsGg==",
+  "dgSpecHash": "phkMo9BXKM2LofD6BE+GTd5g+9g/GEMxkTTAOfpqe0g7ImAQEaBKtkagN6vvVgrnNGYRmZIQjOW1s2G2iEGVVQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ADMIN\\Documents\\oficialTestXamarin\\xamarinTestPivot\\TestApp01\\TestApp01\\TestApp01\\TestApp01.csproj",
+  "projectFilePath": "C:\\Users\\andrewmc17\\Documents\\XamarinOficialFolder\\TestApp01\\TestApp01\\TestApp01\\TestApp01.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\ADMIN\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\ADMIN\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\ADMIN\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
-    "C:\\Users\\ADMIN\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+    "C:\\Users\\andrewmc17\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\andrewmc17\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\andrewmc17\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\andrewmc17\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\andrewmc17\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
   ],
   "logs": []
 }

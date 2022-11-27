@@ -20,7 +20,7 @@
             BorderColor="Aquamarine"
             >
             <StackLayout
-                BackgroundColor="Aquamarine"
+                BackgroundColor="Yellow"
                 >
                 <Image Source="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/479px-WhatsApp.svg.png"
                        />
@@ -29,6 +29,16 @@
                     HorizontalOptions="Center"
                     VerticalOptions="CenterAndExpand"
                     />
+                <ListView>
+                    <ListView.ItemsSource>
+                        <x:Array Type="{x:Type x:String}">
+                            <x:String>Perú</x:String>
+                            <x:String>España</x:String>
+                            <x:String>Colombia</x:String>
+                            <x:String>Puerto Rico</x:String>
+                        </x:Array>
+                    </ListView.ItemsSource>
+                </ListView>
                 <Button 
                     Text="Go"
                     TextTransform="None"

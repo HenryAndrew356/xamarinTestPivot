@@ -1,28 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADMIN\\Documents\\oficialTestXamarin\\xamarinTestPivot\\TestApp01\\TestApp01\\TestApp01.Android\\TestApp01.Android.csproj": {}
+    "C:\\Users\\andrewmc17\\Documents\\XamarinOficialFolder\\TestApp01\\TestApp01\\TestApp01.Android\\TestApp01.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMIN\\Documents\\oficialTestXamarin\\xamarinTestPivot\\TestApp01\\TestApp01\\TestApp01.Android\\TestApp01.Android.csproj": {
+    "C:\\Users\\andrewmc17\\Documents\\XamarinOficialFolder\\TestApp01\\TestApp01\\TestApp01.Android\\TestApp01.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\Documents\\oficialTestXamarin\\xamarinTestPivot\\TestApp01\\TestApp01\\TestApp01.Android\\TestApp01.Android.csproj",
+        "projectUniqueName": "C:\\Users\\andrewmc17\\Documents\\XamarinOficialFolder\\TestApp01\\TestApp01\\TestApp01.Android\\TestApp01.Android.csproj",
         "projectName": "TestApp01.Android",
-        "projectPath": "C:\\Users\\ADMIN\\Documents\\oficialTestXamarin\\xamarinTestPivot\\TestApp01\\TestApp01\\TestApp01.Android\\TestApp01.Android.csproj",
-        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\Documents\\oficialTestXamarin\\xamarinTestPivot\\TestApp01\\TestApp01\\TestApp01.Android\\obj\\",
+        "projectPath": "C:\\Users\\andrewmc17\\Documents\\XamarinOficialFolder\\TestApp01\\TestApp01\\TestApp01.Android\\TestApp01.Android.csproj",
+        "packagesPath": "C:\\Users\\andrewmc17\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\andrewmc17\\Documents\\XamarinOficialFolder\\TestApp01\\TestApp01\\TestApp01.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\andrewmc17\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "monoandroid13.0"
@@ -34,8 +32,8 @@
         "frameworks": {
           "monoandroid13.0": {
             "projectReferences": {
-              "C:\\Users\\ADMIN\\Documents\\oficialTestXamarin\\xamarinTestPivot\\TestApp01\\TestApp01\\TestApp01\\TestApp01.csproj": {
-                "projectPath": "C:\\Users\\ADMIN\\Documents\\oficialTestXamarin\\xamarinTestPivot\\TestApp01\\TestApp01\\TestApp01\\TestApp01.csproj"
+              "C:\\Users\\andrewmc17\\Documents\\XamarinOficialFolder\\TestApp01\\TestApp01\\TestApp01\\TestApp01.csproj": {
+                "projectPath": "C:\\Users\\andrewmc17\\Documents\\XamarinOficialFolder\\TestApp01\\TestApp01\\TestApp01\\TestApp01.csproj"
               }
             }
           }
@@ -56,24 +54,22 @@
         }
       }
     },
-    "C:\\Users\\ADMIN\\Documents\\oficialTestXamarin\\xamarinTestPivot\\TestApp01\\TestApp01\\TestApp01\\TestApp01.csproj": {
+    "C:\\Users\\andrewmc17\\Documents\\XamarinOficialFolder\\TestApp01\\TestApp01\\TestApp01\\TestApp01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\Documents\\oficialTestXamarin\\xamarinTestPivot\\TestApp01\\TestApp01\\TestApp01\\TestApp01.csproj",
+        "projectUniqueName": "C:\\Users\\andrewmc17\\Documents\\XamarinOficialFolder\\TestApp01\\TestApp01\\TestApp01\\TestApp01.csproj",
         "projectName": "TestApp01",
-        "projectPath": "C:\\Users\\ADMIN\\Documents\\oficialTestXamarin\\xamarinTestPivot\\TestApp01\\TestApp01\\TestApp01\\TestApp01.csproj",
-        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\Documents\\oficialTestXamarin\\xamarinTestPivot\\TestApp01\\TestApp01\\TestApp01\\obj\\",
+        "projectPath": "C:\\Users\\andrewmc17\\Documents\\XamarinOficialFolder\\TestApp01\\TestApp01\\TestApp01\\TestApp01.csproj",
+        "packagesPath": "C:\\Users\\andrewmc17\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\andrewmc17\\Documents\\XamarinOficialFolder\\TestApp01\\TestApp01\\TestApp01\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\andrewmc17\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"

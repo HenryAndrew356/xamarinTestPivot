@@ -12,8 +12,10 @@ namespace TestApp01{
         public MainPage(){
             //Pagina de Inicilizacion
             InitializeComponent();
-                //Especificando la pagina de arranque
+            //Especificando la pagina de arranque
             //Main Page=new MainPage();
+            var entry = new Entry();
+            entry.TextColor = Color.Green;
         }
         private void Editor_TextChanged(object sender, TextChangedEventArgs e){
             string pasado = e.OldTextValue;

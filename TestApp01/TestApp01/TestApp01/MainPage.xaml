@@ -12,7 +12,7 @@
         <Label
             HorizontalOptions="Center"
             Text="WhatsappLinkedin"
-            TextColor="Black"
+            TextColor="Pink"
             FontSize="Large"
             />
         <Frame

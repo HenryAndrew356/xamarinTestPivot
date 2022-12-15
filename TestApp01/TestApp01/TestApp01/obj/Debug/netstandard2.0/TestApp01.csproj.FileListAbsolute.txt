@@ -28,3 +28,5 @@ C:\Users\ADMIN\Documents\oficialTestXamarin\xamarinTestPivot\TestApp01\TestApp01
 C:\Users\ADMIN\Documents\oficialTestXamarin\xamarinTestPivot\TestApp01\TestApp01\TestApp01\obj\Debug\netstandard2.0\refint\TestApp01.dll
 C:\Users\ADMIN\Documents\oficialTestXamarin\xamarinTestPivot\TestApp01\TestApp01\TestApp01\obj\Debug\netstandard2.0\TestApp01.pdb
 C:\Users\ADMIN\Documents\oficialTestXamarin\xamarinTestPivot\TestApp01\TestApp01\TestApp01\obj\Debug\netstandard2.0\ref\TestApp01.dll
+C:\Users\ADMIN\Documents\oficialTestXamarin\xamarinTestPivot\TestApp01\TestApp01\TestApp01\obj\Debug\netstandard2.0\cv.xaml.g.cs
+C:\Users\ADMIN\Documents\oficialTestXamarin\xamarinTestPivot\TestApp01\TestApp01\TestApp01\obj\Debug\netstandard2.0\Page1.xaml.g.cs

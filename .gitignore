@@ -1,0 +1,6 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/TestApp01/TestApp01/TestApp01/Page1.xaml
+/TestApp01/TestApp01/TestApp01/XMLFile1.xml

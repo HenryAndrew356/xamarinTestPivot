@@ -1,46 +1,81 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<!-- Syntaxis Commentary the same HTML -->
-<!--  -->
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="TestApp01.MainPage">
-    <StackLayout 
-        BackgroundColor="White"
-        Padding="15,15,15,15"
-        >
-        <Label
-            HorizontalOptions="Center"
-            Text="WhatsappLinkedin"
-            TextColor="Blue"
-            FontSize="Large"
-            FontFamily="Arial"
-            />
-        <Frame
-            BackgroundColor="White"
-            BorderColor="White"
-            >
-            <StackLayout
-                BackgroundColor="White"
-                >
-                <Image Source="https://cdn-icons-png.flaticon.com/512/174/174857.png"
-                       />
-                <Entry IsPassword="false" Placeholder="Nombres" />
-                <Entry TextColor="Green" />
-                <ListView>
-                    <ListView.ItemsSource>
-                        <x:Array Type="{x:Type x:String}">
-                            <x:String>Perú</x:String>
-                            <x:String>España</x:String>
-                            <x:String>Colombia</x:String>
-                            <x:String>Puerto Rico</x:String>
-                        </x:Array>
-                    </ListView.ItemsSource>
-                </ListView>
-                <Button 
-                    Text="Go"
-                    TextTransform="None"
-                    />
+
+    <StackLayout Margin="20">
+        <StackLayout BackgroundColor="#05668d">
+            <Label Text="Form to CV" 
+                   FontSize="Large"
+                   TextColor="White"
+                   HorizontalTextAlignment="Center"
+                   Padding="6"/>
+        </StackLayout>
+        <ScrollView>
+            <StackLayout>
+
+                <Label Text="Name:"
+                       TextColor="#02c39a"/>
+                <Entry Placeholder="Enter your name"
+                       x:Name="EntryName"/>
+
+                <Label Text="Age:"
+                       TextColor="#02c39a"/>
+                <Entry Placeholder="Enter your age"
+                       x:Name="EntryAge"/>
+
+                <Label Text="Occupation:"
+                       TextColor="#02c39a"/>
+                <Entry Placeholder="Enter your occupation"
+                       x:Name="EntryOccupation"/>
+
+                <Label Text="Nationality:"
+                       TextColor="#02c39a"/>
+                <Entry Placeholder="Enter your country"
+                       x:Name="EntryNationality"/>
+
+                <Label Text="Contact:"
+                       TextColor="#02c39a"/>
+                <Entry Placeholder="Enter your phone number"
+                       x:Name="EntryNumber"/>
+                <Entry Placeholder="Enter your email"
+                       x:Name="EntryEmail"/>
+
+
+                <Label Text="Work Experience:"
+                       TextColor="#02c39a"/>
+                <StackLayout x:Name="Layout_experience">
+                    <Entry Placeholder="Enter your experience"
+                           x:Name="EntryExperience"/>
+                </StackLayout>
+                <Button Text="+"
+                        Clicked="Button_Clicked_Experience"/>
+
+                <Label Text="Skills:"
+                       TextColor="#02c39a"/>
+                <StackLayout x:Name="Layout_skill">
+                    <Entry Placeholder="Enter your skill"
+                           x:Name="EntrySkill"/>
+                </StackLayout>
+                <Button Text="+"
+                        Clicked="Button_Clicked_Skill"/>
+
+                <Label Text="Education:"
+                       TextColor="#02c39a"/>
+                <StackLayout x:Name="Layout_education">
+                    <Entry Placeholder="Enter your education"
+                           x:Name="EntryEducation"/>
+                </StackLayout>
+                <Button Text="+"
+                        Clicked="Button_Clicked_Education"/>
+
+
+                <Button Text="Submit"  
+                        BackgroundColor="#02c39a"
+                        TextColor="#f0f3bd"
+                        Clicked="Button_Clicked"
+                        FontSize="Medium"/>
             </StackLayout>
-        </Frame>
+        </ScrollView>
     </StackLayout>
 </ContentPage>

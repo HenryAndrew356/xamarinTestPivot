@@ -4,6 +4,12 @@ public class MonoPackageManager_Resources {
 		/* We need to ensure that "TestApp01.Android.dll" comes first in this list. */
 		"TestApp01.Android.dll",
 		"FormsViewGroup.dll",
+		"ICSharpCode.SharpZipLib.dll",
+		"PdfSharp.Xamarin.Forms.Android.dll",
+		"PdfSharp.Xamarin.Forms.dll",
+		"PdfSharpCore.dll",
+		"SixLabors.Fonts.dll",
+		"SixLabors.ImageSharp.dll",
 		"TestApp01.dll",
 		"Xamarin.AndroidX.Activity.dll",
 		"Xamarin.AndroidX.Annotation.dll",
